@@ -1,3 +1,7 @@
+
+This project demonstrates how to implement form validation in a React application using Formik and Yup. 
+Formik is a popular form library for React, and Yup is a schema-based validation library.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
